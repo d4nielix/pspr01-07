@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/danie/OneDrive/Dokumenty/Drugi stopień/Semestr 2/PSPR/PP01/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE    -Wall -Wextra -Wpedantic -march=nehalem -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\PP01.dir\\PP01.cpp.obj -c \"C:\\Users\\danie\\OneDrive\\Dokumenty\\Drugi stopień\\Semestr 2\\PSPR\\PP01\\PP01.cpp\"",
+  "file": "C:/Users/danie/OneDrive/Dokumenty/Drugi stopień/Semestr 2/PSPR/PP01/PP01.cpp"
+}
+]

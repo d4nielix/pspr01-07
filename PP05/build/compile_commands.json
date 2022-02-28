@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/xPic.cpp.o -c /home/d4nielix/Pulpit/PP05/xPic.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/xPic.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/xPixelOpsSTD.cpp.o -c /home/d4nielix/Pulpit/PP05/xPixelOpsSTD.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/xPixelOpsSTD.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/xSepia.cpp.o -c /home/d4nielix/Pulpit/PP05/xSepia.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/xSepia.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/xSeq.cpp.o -c /home/d4nielix/Pulpit/PP05/xSeq.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/xSeq.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/xThreadPool.cpp.o -c /home/d4nielix/Pulpit/PP05/xThreadPool.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/xThreadPool.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP05/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP05.dir/PP05.cpp.o -c /home/d4nielix/Pulpit/PP05/PP05.cpp",
+  "file": "/home/d4nielix/Pulpit/PP05/PP05.cpp"
+}
+]

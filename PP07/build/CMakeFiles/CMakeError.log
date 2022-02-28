@@ -1,0 +1,180 @@
+Determining if the CL_VERSION_2_2 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_bf69d/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bf69d.dir\build.make CMakeFiles/cmTC_bf69d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bf69d.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_bf69d.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_bf69d.dir\build.make:77: CMakeFiles/cmTC_bf69d.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_bf69d/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_2_2
+  return ((int*)(&CL_VERSION_2_2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_2_1 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_91b17/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_91b17.dir\build.make CMakeFiles/cmTC_91b17.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_91b17.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_91b17.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_91b17.dir\build.make:77: CMakeFiles/cmTC_91b17.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_91b17/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_2_1
+  return ((int*)(&CL_VERSION_2_1))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_2_0 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_516cd/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_516cd.dir\build.make CMakeFiles/cmTC_516cd.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_516cd.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_516cd.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_516cd.dir\build.make:77: CMakeFiles/cmTC_516cd.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_516cd/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_2_0
+  return ((int*)(&CL_VERSION_2_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_2 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_acc3c/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_acc3c.dir\build.make CMakeFiles/cmTC_acc3c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_acc3c.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_acc3c.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_acc3c.dir\build.make:77: CMakeFiles/cmTC_acc3c.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_acc3c/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_2
+  return ((int*)(&CL_VERSION_1_2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_1 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_e3d51/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_e3d51.dir\build.make CMakeFiles/cmTC_e3d51.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e3d51.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_e3d51.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e3d51.dir\build.make:77: CMakeFiles/cmTC_e3d51.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_e3d51/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_1
+  return ((int*)(&CL_VERSION_1_1))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the CL_VERSION_1_0 exist failed with the following output:
+Change Dir: C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_9e2ab/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_9e2ab.dir\build.make CMakeFiles/cmTC_9e2ab.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9e2ab.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE   -fopenmp  -o CMakeFiles\cmTC_9e2ab.dir\CheckSymbolExists.c.obj -c C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\danie\Desktop\PP07\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c:2:10: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+ #include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_9e2ab.dir\build.make:77: CMakeFiles/cmTC_9e2ab.dir/CheckSymbolExists.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_9e2ab/fast] Error 2
+
+
+File C:/Users/danie/Desktop/PP07/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_0
+  return ((int*)(&CL_VERSION_1_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

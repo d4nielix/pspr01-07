@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/d4nielix/Pulpit/PP04/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP04.dir/xPic.cpp.o -c /home/d4nielix/Pulpit/PP04/xPic.cpp",
+  "file": "/home/d4nielix/Pulpit/PP04/xPic.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP04/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP04.dir/xPixelOpsSTD.cpp.o -c /home/d4nielix/Pulpit/PP04/xPixelOpsSTD.cpp",
+  "file": "/home/d4nielix/Pulpit/PP04/xPixelOpsSTD.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP04/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP04.dir/xSepia.cpp.o -c /home/d4nielix/Pulpit/PP04/xSepia.cpp",
+  "file": "/home/d4nielix/Pulpit/PP04/xSepia.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP04/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP04.dir/xSeq.cpp.o -c /home/d4nielix/Pulpit/PP04/xSeq.cpp",
+  "file": "/home/d4nielix/Pulpit/PP04/xSeq.cpp"
+},
+{
+  "directory": "/home/d4nielix/Pulpit/PP04/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG -fPIE -std=gnu++17 -o CMakeFiles/PP04.dir/PP04.cpp.o -c /home/d4nielix/Pulpit/PP04/PP04.cpp",
+  "file": "/home/d4nielix/Pulpit/PP04/PP04.cpp"
+}
+]

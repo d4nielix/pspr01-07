@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -march=nehalem -fopenmp -O3 -DNDEBUG CMakeFiles/PP02.dir/xPSNR.cpp.o CMakeFiles/PP02.dir/xPic.cpp.o CMakeFiles/PP02.dir/xPixelOpsSTD.cpp.o CMakeFiles/PP02.dir/xSeq.cpp.o CMakeFiles/PP02.dir/PP02.cpp.o -o PP02 
